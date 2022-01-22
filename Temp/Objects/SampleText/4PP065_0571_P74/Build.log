@@ -1,0 +1,5 @@
+Error: 9225: Could not find Automation Runtime directory J4.25.
+System error.
+   at BR.AS.AnalyseProject.DataClasses.DataAndTools.StopExecutionOnFatalErrorAndUserCancelation()
+   at BR.AS.AnalyseProject.Analyse.Init()
+   at BR.AS.AnalyseProject.Analyse.Execute()
